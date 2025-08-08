@@ -1,0 +1,9 @@
+{
+	"folders": [
+		{
+			"uri": "vscode-remote://wsl+ubuntu/home/rachael/cubesat_project"
+		}
+	],
+	"remoteAuthority": "wsl+Ubuntu",
+	"settings": {}
+}
